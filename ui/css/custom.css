@@ -3961,3 +3961,7 @@ table.dataTable.table-condensed .sorting:after, table.dataTable.table-condensed 
 .right{
     overflow: inherit;
 }
+
+.breadcrumb {
+    margin-right: 50px;
+}
