@@ -71,13 +71,13 @@ EasyOrder Grocery Store Management System is a comprehensive solution designed t
 ## Screenshots
 
 ### Dashboard
-![Dashboard](path/to/dashboard-screenshot.png)
+![Dashboard](home.png)
 
 ### Inventory Management
-![Inventory Management](path/to/inventory-management-screenshot.png)
+![Inventory Management](inventory.png)
 
 ### Order Processing
-![Order Processing](path/to/order-processing-screenshot.png)
+![Order Processing](new-order.png)
 
 ## Contributing
 
